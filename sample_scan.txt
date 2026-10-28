@@ -1,0 +1,13 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2026-10-28 04:00 EAT
+Nmap scan report for 192.168.0.120
+Host is up (0.00030s latency).
+Not shown: 991 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+80/tcp   open  http
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+
+Nmap done: 1 IP address (1 h/s) scanned in 1.42 seconds
